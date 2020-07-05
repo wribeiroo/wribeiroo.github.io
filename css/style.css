@@ -34,6 +34,38 @@
     font-size:17px;
     line-height:20px;
 }
+.P4 {
+    color: #4F4F4F;
+    text-align: justify;    
+}
+.P5 {
+    color: #000;
+    font-weight: bold;
+}
+.P6 {
+    color: #4f4f4f;
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: circle;
+}
+.S1 {
+    color: white;
+    float: left;
+    padding: 10px;
+    margin-left: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    width: auto;
+    max-width: 700px;
+    font-size: 15pt;
+    margin-top: 100px;
+
+}
+.Y {
+    color: #FECE1A;
+    font-weight: bold;
+}
 a {
     color:#181A1C;
     text-decoration: none;
@@ -53,6 +85,7 @@ p {
     font-weight: 100;
     color: #fff;
 }
+
 .navbar {
     background: #181A1C;
     margin-bottom:0;
@@ -497,7 +530,7 @@ p {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
-    color:#181A17;
+    color:white;
 }
 .about-text {
     margin-top:30px;
